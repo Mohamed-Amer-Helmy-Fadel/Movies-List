@@ -1,0 +1,2 @@
+used lib:
+- react-paginate  https://www.npmjs.com/package/react-paginate
